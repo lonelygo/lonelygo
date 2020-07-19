@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350px" />
 
 <a href="https://github.com/lonelygo/Shift-AI-models-to-real-world-products">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lonelygo&repo=Shift-AI-models-to-real-world-products" />
 </a>
 <a href="https://github.com/lonelygo/container_detection">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=lonelygo&repo=container_detection" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lonelygo&repo=container_detection" />
 </a>
 
