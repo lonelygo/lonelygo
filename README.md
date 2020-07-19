@@ -1,4 +1,3 @@
-## Hi there 🤗🤗🤗
 
 <!--
 **lonelygo/lonelygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><b>Happy Coding! 😊😊😊</b></h1>
-
+<h2 align="center"><b>Hi there 🤗🤗🤗, Happy Coding! 😊😊😊</b></h2>
+<a>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+</a>
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
