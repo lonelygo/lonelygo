@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&theme=dracula)
 <!--
 ![Kevin's Zhihu stats](https://stats.justsong.cn/api/zhihu?username=lonelygo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
--->
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="330px" />
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelygo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
