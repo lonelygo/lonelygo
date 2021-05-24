@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Kevin's Zhihu stats](https://stats.justsong.cn/api/zhihu?username=lonelygo)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="330px" />
 
 <a href="https://github.com/lonelygo/Shift-AI-models-to-real-world-products">
