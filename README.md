@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center"><b>Hi there, </b><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><b>Happy Coding! 😊😊😊</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"></h2>
 
 
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&theme=dracula
-&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&theme=dracula&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Kevin's Zhihu stats](https://stats.justsong.cn/api/zhihu?username=lonelygo&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="330px" />
