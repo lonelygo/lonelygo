@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/lonelygo/Shift-AI-models-to-real-world-products">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lonelygo&repo=Shift-AI-models-to-real-world-products" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lonelygo&repo=Shift-AI-models-to-real-world-products&theme=dracula" />
 </a>
 <a href="https://github.com/lonelygo/container_detection">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=lonelygo&repo=container_detection" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=lonelygo&repo=container_detection&theme=dracula" />
 </a>
 
