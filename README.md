@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&theme=dracula)
 -->
 <a herf="https://github.com/lonelygo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lonelygo&repo=github-readme-stats&show_icons=true&theme=dracula" />
 </a>
 
 <!--
